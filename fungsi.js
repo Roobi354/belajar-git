@@ -11,3 +11,5 @@ const add = (a,b) => a + b;
 console.log(add(1,2));
 
 console.log(add(2, 3));
+
+console.log(pembagian(10, 5));
